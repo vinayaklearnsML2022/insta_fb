@@ -1,0 +1,21 @@
+1.	Download the zip file from GitHub and place it in d:\
+2.	Open the folder in Vscode.
+3.	please install python 3.11.8 in your machine.
+4.	Go to terminal -> command prompt in vscode and create a virtual environment.
+
+Please follow these instructions in command prompt:
+
+D:\insta_fb-master>C:\py3.11.8\python -m venv venv                    
+D:\insta_fb-master>cd venv
+D:\insta_fb-master\venv>scripts\activate
+D:\insta_fb-master\venv>cd..
+D:\insta_fb-master>pip install -r requirements.txt
+
+
+
+5.	All the files got installed. If there is any software issue, please close the vscode and repeat the process once again. It should solve the problem.
+
+6.	It’s time to run the program
+In the command prompt: python -m main
+
+You will see our project running in edge:
